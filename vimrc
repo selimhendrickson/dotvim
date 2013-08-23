@@ -5,6 +5,9 @@ syntax enable
 set encoding=utf-8
 set showcmd				"load file type plugins + indentation
 
+"Map leader
+let mapleader = ","
+
 ""Whitespace
 set nowrap				"Don't wrap lines
 set tabstop=2 shiftwidth=2		"A tab is two spaces
