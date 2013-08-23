@@ -26,3 +26,4 @@ filetype plugin indent on
 set background=dark
 colorscheme solarized
 set guifont=Inconsolata\ 13
+set number
