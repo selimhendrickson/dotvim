@@ -1,12 +1,16 @@
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
 	url = http://github.com/altercation/vim-colors-solarized.git
+  ignore = dirty
 [submodule "bundle/vim-rails"]
 	path = bundle/vim-rails
 	url = https://github.com/tpope/vim-rails.git
+  ignore = dirty
 [submodule "bundle/headlights"]
 	path = bundle/headlights
 	url = https://github.com/mbadran/headlights.git
+  ignore = dirty
 [submodule "bundle/ruby"]
 	path = bundle/ruby
 	url = https://github.com/vim-ruby/vim-ruby.git
+  ignore = dirty

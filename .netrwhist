@@ -1,3 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =6
 let g:netrw_dirhist_1='/Users/selim/workspaces/rails_projects/sample_app/app/views/static_pages'
+let g:netrw_dirhist_2='/Users/selim/.vim'
+let g:netrw_dirhist_3='/Users/selim/.vim/.git'
+let g:netrw_dirhist_4='/Users/selim/.vim'
+let g:netrw_dirhist_5='/Users/selim/.vim/bundle'
+let g:netrw_dirhist_6='/Users/selim/.vim/bundle/headlights'
