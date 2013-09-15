@@ -1,5 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/Users/selim/workspaces/rails_projects'
-let g:netrw_dirhist_2='/Users/selim/workspaces/rails_projects/sample_app'
-let g:netrw_dirhist_3='/Users/selim/.vim'
+let g:netrw_dirhist_cnt =0

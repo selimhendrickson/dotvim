@@ -30,3 +30,16 @@ set background=dark
 colorscheme solarized
 set guifont=Inconsolata\ 13
 set number
+
+"Closetag
+autocmd FileType html,htmldjango,jinjahtml,eruby,mako 
+let b:closetag_html_style=1
+autocmd FileType html,xhtml,xml,htmldjango,jinjahtml,eruby,mako 
+source ~/.vim/bundle/closetag/plugin/closetag.vim
+
+"Supertab
+let g:SuperTabDefaultCompletionType = "context"
+
+"Tagbar
+let g:tagbar_usearrows = 1
+nnoremap <leader>l :TagbarToggle<CR>
